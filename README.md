@@ -1,4 +1,4 @@
-# BashPresenceDetection
+# Bash Presence Detection
 Very simple&amp;small bash script to detect your presence in the house and control your devices.
 
 When your presence is detected it will turn on your lights, music and screens. In the same way everything will be turned off when you leave the building.
